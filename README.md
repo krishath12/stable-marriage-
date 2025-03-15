@@ -1,1 +1,1 @@
-# stable-marriage-
+# stable-marriage- By doing this stable marriage program, I have learned about implementing backtracking algorithms, understanding and applying the stable marriage problem, and managing preference lists to find stable solutions.
